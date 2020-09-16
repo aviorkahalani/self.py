@@ -1,2 +1,2 @@
 # self.py
-Codes and Excercises from a course I take
+Codes and Excercises from the course 'self.py'.
